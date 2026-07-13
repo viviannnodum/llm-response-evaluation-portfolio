@@ -1,62 +1,70 @@
 # LLM Response Evaluation & Human Feedback Portfolio
 
-## Overview
-
-This repository demonstrates my ability to evaluate, compare, and improve Large Language Model (LLM) outputs using structured human evaluation techniques inspired by Reinforcement Learning from Human Feedback (RLHF).
-
-The project showcases response ranking, prompt evaluation, factuality assessment, instruction following, reasoning analysis, writing quality evaluation, and quality assurance.
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![AI](https://img.shields.io/badge/AI-LLM-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
-## Objectives
+## Project Overview
 
-- Evaluate AI-generated responses
-- Compare multiple model outputs
-- Rank responses objectively
-- Provide written justification
-- Identify hallucinations
-- Assess instruction following
-- Recommend improvements
+This repository demonstrates my ability to evaluate, compare, and improve Large Language Model (LLM) outputs using structured human evaluation techniques inspired by Reinforcement Learning from Human Feedback (RLHF).
+
+The project showcases prompt evaluation, response ranking, factuality assessment, instruction following, reasoning analysis, and AI quality assurance.
 
 ---
 
 ## Skills Demonstrated
 
 - Prompt Engineering
-- AI Evaluation
+- LLM Evaluation
 - Response Ranking
+- AI Quality Assurance
 - Human Feedback
 - Technical Writing
 - Analytical Thinking
-- Quality Assurance
 - Critical Reasoning
+
+---
+
+## Repository Structure
+
+```
+.
+├── assets
+├── datasets
+├── evaluations
+├── prompts
+├── rubric
+└── README.md
+```
 
 ---
 
 ## Evaluation Criteria
 
 - Accuracy
-- Completeness
 - Instruction Following
-- Logical Reasoning
+- Reasoning
+- Completeness
 - Clarity
 - Safety
-- Conciseness
 - Grammar
 - Overall Quality
 
 ---
 
-## Tools
+## Tools Used
 
 - ChatGPT
-- Claude
-- Gemini
-- Markdown
 - GitHub
+- Markdown
+- VS Code
 
 ---
 
-Author
+## Author
 
-Vivian O. Nnodum
+**Vivian O. Nnodum**
+
+AI Trainer | Prompt Engineer | AI Automation Engineer
