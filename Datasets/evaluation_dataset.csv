@@ -1,2 +1,3 @@
-Task,Winner,Accuracy,Instruction_Following,Reasoning,Clarity,Completeness
-001,B,5,5,5,5,5
+Task,Category,Winner,Instruction_Following,Accuracy,Reasoning,Clarity,Overall
+001,Instruction Following,B,5,5,5,5,5
+002,Instruction Following,A,3,5,5,5,4
